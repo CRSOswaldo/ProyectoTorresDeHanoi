@@ -1,0 +1,32 @@
+bool bandera = false;
+                                                        for (int x = 0; x < 3; x++)
+                                                        {
+                                                            if (torre1 == barra1[x])
+                                                            {
+                                                                bandera = true;
+                                                                Console.WriteLine("No se puede mover en la posicion que ya esta");
+                                                                Console.ReadKey();
+                                                                break;
+                                                            }
+                                                        }
+                                                        if (bandera == false)
+                                                        {
+                                                            if ((barra2[0] == "") && (barra2[0] != torre2)&&(barra2[0]!=torre3))
+                                                            {
+                                                                barra2[0] = barra1[0];
+                                                                Console.SetCursorPosition(23, 11);
+                                                                Console.WriteLine("     ");
+                                                                Console.SetCursorPosition(63, 13);
+                                                                Console.WriteLine(barra2[0]);
+                                                            }
+                                                            if(barra1[1]!="")
+                                                            {
+                                                                barra2[1] = barra1[0];
+                                                                Console.SetCursorPosition(23, 11);
+                                                                Console.WriteLine("     ");
+                                                                Console.SetCursorPosition(63, 13);
+                                                                Console.WriteLine(barra2[0]);
+                                                            }
+                                                            banderamoviento = true;
+                                                        }
+                                                        break;

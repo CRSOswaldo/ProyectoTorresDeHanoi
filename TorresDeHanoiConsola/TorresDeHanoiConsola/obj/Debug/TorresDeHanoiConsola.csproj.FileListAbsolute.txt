@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Documents\ejercicios progra 2\TorresDeHanoiConsola\TorresDeHanoiConsola\bin\Debug\TorresDeHanoiConsola.exe.config
+C:\Users\USUARIO\Documents\ejercicios progra 2\TorresDeHanoiConsola\TorresDeHanoiConsola\bin\Debug\TorresDeHanoiConsola.exe
+C:\Users\USUARIO\Documents\ejercicios progra 2\TorresDeHanoiConsola\TorresDeHanoiConsola\bin\Debug\TorresDeHanoiConsola.pdb
+C:\Users\USUARIO\Documents\ejercicios progra 2\TorresDeHanoiConsola\TorresDeHanoiConsola\obj\Debug\TorresDeHanoiConsola.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\ejercicios progra 2\TorresDeHanoiConsola\TorresDeHanoiConsola\obj\Debug\TorresDeHanoiConsola.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\ejercicios progra 2\TorresDeHanoiConsola\TorresDeHanoiConsola\obj\Debug\TorresDeHanoiConsola.exe
+C:\Users\USUARIO\Documents\ejercicios progra 2\TorresDeHanoiConsola\TorresDeHanoiConsola\obj\Debug\TorresDeHanoiConsola.pdb
